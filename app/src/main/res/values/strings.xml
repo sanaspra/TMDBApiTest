@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TMDBAssignment</string>
+    <string name="menu_search_title">Search</string>
+    <string name="overview">Overview</string>
+    <string name="error_message">Something went wrong. Please try again!</string>
+    <string name="no_movies_message">No movies found!</string>
+</resources>
